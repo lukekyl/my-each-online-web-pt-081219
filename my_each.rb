@@ -6,7 +6,3 @@ def my_each(array)
   end
   return array
 end
-
-my_each(array) do |number|
-  puts number + 100
-end
