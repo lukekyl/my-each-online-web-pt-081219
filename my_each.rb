@@ -4,4 +4,5 @@ def my_each(array)
     array[counter]
     counter += 1
   end
+  array
 end
